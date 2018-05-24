@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Library_project</string>
+    <string name="msg">show value</string>
+    <string name="livres_disponibles">Availables Books</string>
+    <string name="amour">Love</string>
+    <string name="science_fiction">Scfi</string>
+    <string name="aventure">Adventure</string>
+    <string name="historique">Story</string>
+    <string name="meilleurs_livres">Best Books</string>
+    <string name="telecharger_livres_">Download Best Books</string>
+    <string name="instruction_1">Clic on "My Library" button if you want to see all the available books in this library. In this part we have all kind of books we have in our library</string>
+    <string name="instruction_2">clic on "Best books" to see the list of best sales books</string>
+    <string name="instruction_3">If you want to dowload the list of our best book, go in "My library" then clic on "Telecharger le pack best livres</string>
+    <string name="ma_bibliothèque">MY LIBRARY</string>
+    <string name="localisation">LIBRARY LOCATION</string>
+    <string name="date_of_booking">DATE OF BOOKING</string>
+    <string name="guide_utilisation">HOW TO USE?</string>
+    <string name="notification">Notification</string>
+
+</resources>

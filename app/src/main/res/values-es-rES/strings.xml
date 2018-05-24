@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Proyecto de Biblioteca</string>
+    <string name="msg">Mostrar valores</string>
+    <string name="livres_disponibles">Libros disponibles</string>
+    <string name="amour">Amor</string>
+    <string name="science_fiction">Ciencia Ficcion</string>
+    <string name="aventure">Aventura</string>
+    <string name="historique">Historico</string>
+    <string name="meilleurs_livres">Mejores Libros</string>
+    <string name="telecharger_livres_">Télécharger le pack best livres</string>
+    <string name="instruction_1">Clic on "My Library" button if you want to see all the available books in this library. In this part we have all kind of books we have in our library</string>
+    <string name="instruction_2">clic on "Best books" to see the list of best sales books</string>
+    <string name="instruction_3">If you want to dowload the list of our best book, go in "My library" then clic on "Telecharger le pack best livres</string>
+    <string name="ma_bibliothèque">MI BIBLIOTECA</string>
+    <string name="localisation">DIRECCION DE LA BIBLIOTECA</string>
+    <string name="date_of_booking">FECHA PARA VISITAR</string>
+    <string name="guide_utilisation">MANUAL DE UTILISACION</string>
+    <string name="notification">Notificacion</string>
+</resources>
